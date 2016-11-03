@@ -1,0 +1,4 @@
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Shared\bin\Release\TimeZoneRevolution.Shared.dll
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Shared\bin\Release\TimeZoneRevolution.Shared.pdb
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Shared\obj\Release\TimeZoneRevolution.Shared.dll
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Shared\obj\Release\TimeZoneRevolution.Shared.pdb

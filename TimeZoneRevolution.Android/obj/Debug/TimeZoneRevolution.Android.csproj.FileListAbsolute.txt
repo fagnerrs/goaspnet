@@ -1,0 +1,17 @@
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\bin\Debug\TimeZoneRevolution.Android.dll
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\bin\Debug\TimeZoneRevolution.Android.pdb
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\bin\Debug\TimeZoneRevolution.Android.TimeZoneRevolution.Android.apk
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\bin\Debug\TimeZoneRevolution.Android.TimeZoneRevolution.Android-Signed.apk
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\bin\Debug\TimeZoneRevolution.Shared.dll
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\bin\Debug\TimeZoneRevolution.Shared.pdb
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\obj\Debug\TimeZoneRevolution.Android.csprojResolveAssemblyReference.cache
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\obj\Debug\TimeZoneRevolution.Android.dll
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\obj\Debug\TimeZoneRevolution.Android.pdb
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\obj\Debug\android\bin\TimeZoneRevolution.Android.TimeZoneRevolution.Android.apk
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\obj\Debug\res\layout\main.xml
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\obj\Debug\res\values\strings.xml
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\obj\Debug\R.cs.flag
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\obj\Debug\uploadflags.txt
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\obj\Debug\TimeZoneRevolution.Android.dll.mdb
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Android\bin\Debug\TimeZoneRevolution.Android.dll.mdb

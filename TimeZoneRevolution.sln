@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZoneRevolution", "TimeZoneRevolution\TimeZoneRevolution.csproj", "{6101284B-7E84-4CDD-8350-0984A536B06C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZoneRevolution.Android", "TimeZoneRevolution.Android\TimeZoneRevolution.Android.csproj", "{EACF0AF9-BA90-49B9-B140-76822045DFBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZoneRevolution.Shared", "TimeZoneRevolution.Shared\TimeZoneRevolution.Shared.csproj", "{1C2BDAE4-0724-4107-B318-A36DBE167B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DIT|Any CPU = DIT|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6101284B-7E84-4CDD-8350-0984A536B06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6101284B-7E84-4CDD-8350-0984A536B06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6101284B-7E84-4CDD-8350-0984A536B06C}.DIT|Any CPU.ActiveCfg = DIT|Any CPU
+		{6101284B-7E84-4CDD-8350-0984A536B06C}.DIT|Any CPU.Build.0 = DIT|Any CPU
+		{6101284B-7E84-4CDD-8350-0984A536B06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6101284B-7E84-4CDD-8350-0984A536B06C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EACF0AF9-BA90-49B9-B140-76822045DFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACF0AF9-BA90-49B9-B140-76822045DFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACF0AF9-BA90-49B9-B140-76822045DFBD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EACF0AF9-BA90-49B9-B140-76822045DFBD}.DIT|Any CPU.ActiveCfg = DIT|Any CPU
+		{EACF0AF9-BA90-49B9-B140-76822045DFBD}.DIT|Any CPU.Build.0 = DIT|Any CPU
+		{EACF0AF9-BA90-49B9-B140-76822045DFBD}.DIT|Any CPU.Deploy.0 = DIT|Any CPU
+		{EACF0AF9-BA90-49B9-B140-76822045DFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACF0AF9-BA90-49B9-B140-76822045DFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EACF0AF9-BA90-49B9-B140-76822045DFBD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1C2BDAE4-0724-4107-B318-A36DBE167B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2BDAE4-0724-4107-B318-A36DBE167B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2BDAE4-0724-4107-B318-A36DBE167B30}.DIT|Any CPU.ActiveCfg = DIT|Any CPU
+		{1C2BDAE4-0724-4107-B318-A36DBE167B30}.DIT|Any CPU.Build.0 = DIT|Any CPU
+		{1C2BDAE4-0724-4107-B318-A36DBE167B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2BDAE4-0724-4107-B318-A36DBE167B30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

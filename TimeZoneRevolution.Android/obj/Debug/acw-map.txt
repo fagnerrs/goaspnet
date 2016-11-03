@@ -1,0 +1,4 @@
+TimeZoneRevolution.Android.MainActivity, TimeZoneRevolution.Android;md5f159a5794ceda7615c1926a599c9a768.MainActivity
+TimeZoneRevolution.Android.MainActivity, TimeZoneRevolution.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f159a5794ceda7615c1926a599c9a768.MainActivity
+TimeZoneRevolution.Android.MainActivity;md5f159a5794ceda7615c1926a599c9a768.MainActivity
+timezonerevolution.android.MainActivity;md5f159a5794ceda7615c1926a599c9a768.MainActivity
