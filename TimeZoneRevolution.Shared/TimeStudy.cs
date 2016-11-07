@@ -8,6 +8,9 @@ namespace TimeZoneRevolution.Shared
 {
     public class TimeStudy
     {
+
+        public DateTime Data { get; set; }
+
         public static string getTimeZones()
         {
             StringBuilder builder = new StringBuilder();
@@ -37,7 +40,6 @@ namespace TimeZoneRevolution.Shared
 
             return builder.ToString();
         }
-
 
         private static void converstionTest(DateTime date)
         {

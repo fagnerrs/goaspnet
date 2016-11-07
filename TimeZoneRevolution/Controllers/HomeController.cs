@@ -12,8 +12,10 @@ namespace TimeZoneRevolution.Controllers
     {
         public ActionResult Index()
         {
-
             ViewBag.ActualDateTime = TimeStudy.getTimeZones();
+
+            ViewBag.Process = new TimeZoneRevolution.Shared.Paralell().Process();
+            ViewBag.ProcessAsync = new TimeZoneRevolution.Shared.Paralell().ProcessAsync();
 
             return View();
         }
