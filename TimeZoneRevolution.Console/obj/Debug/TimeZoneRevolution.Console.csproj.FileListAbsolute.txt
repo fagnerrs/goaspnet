@@ -1,0 +1,6 @@
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Console\bin\Debug\TimeZoneRevolution.Console.exe.config
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Console\bin\Debug\TimeZoneRevolution.Console.exe
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Console\bin\Debug\TimeZoneRevolution.Console.pdb
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Console\obj\Debug\TimeZoneRevolution.Console.csprojResolveAssemblyReference.cache
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Console\obj\Debug\TimeZoneRevolution.Console.exe
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Console\obj\Debug\TimeZoneRevolution.Console.pdb

@@ -3,9 +3,9 @@ C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZon
 C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.IOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
 C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.IOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
 C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.IOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
-C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.IOS\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
 C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.IOS\obj\iPhoneSimulator\Debug\optimized\
 C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.IOS\obj\iPhoneSimulator\Debug\TimeZoneRevolution.IOS.exe
 C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.IOS\obj\iPhoneSimulator\Debug\TimeZoneRevolution.IOS.pdb
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.IOS\obj\iPhoneSimulator\Debug\TimeZoneRevolution.IOS.csprojResolveAssemblyReference.cache
 C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.IOS\obj\iPhoneSimulator\Debug\TimeZoneRevolution.IOS.exe.mdb
 C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.IOS\bin\iPhoneSimulator\Debug\TimeZoneRevolution.IOS.exe.mdb

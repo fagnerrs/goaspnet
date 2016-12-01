@@ -2,4 +2,5 @@ C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZon
 C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Shared\bin\Debug\TimeZoneRevolution.Shared.pdb
 C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Shared\obj\Debug\TimeZoneRevolution.Shared.dll
 C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Shared\obj\Debug\TimeZoneRevolution.Shared.pdb
-C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Shared\obj\Debug\TimeZoneRevolution.Shared.csprojResolveAssemblyReference.cache
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Shared\obj\Debug\TimeZoneRevolution.Shared.dll.mdb
+C:\Users\Fagner\Documents\Visual Studio 2015\Projects\TimeZoneRevolution\TimeZoneRevolution.Shared\bin\Debug\TimeZoneRevolution.Shared.dll.mdb
